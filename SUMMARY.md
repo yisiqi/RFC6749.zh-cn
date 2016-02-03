@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [1. 介绍](Section01/1.md)
-   * [角色](Section01/1.1.md)
+   * [1.1 角色](Section01/1.1.md)
    * [协议流程](Section01/1.2.md)
    * [授权许可](Section01/1.3.md)
        * [授权码](Section01/1.3.1.md)

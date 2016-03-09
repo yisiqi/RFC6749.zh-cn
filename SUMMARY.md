@@ -1,6 +1,6 @@
 # Summary
 
-<!-- * [Introduction](index.md) -->
+* [介绍](README.md)
 * [1 介绍](Section01/1.md)
    * [1.1 角色](Section01/1.1.md)
    * [1.2 协议流程](Section01/1.2.md)
@@ -116,3 +116,4 @@
 * [勘误](Errata/errata.md)
    * [3446](Errata/errata.3446.md)
    * [3500](Errata/errata.3500.md)
+

@@ -1,7 +1,7 @@
 # Summary
 
-* [关于](README.md)
-* [1 介绍](Section01/1.md)
+<!-- * [Introduction](index.md) -->
+* [1 框架简介](Section01/1.md)
    * [1.1 角色](Section01/1.1.md)
    * [1.2 协议流程](Section01/1.2.md)
    * [1.3 授权许可](Section01/1.3.md)
@@ -116,4 +116,3 @@
 * [勘误](Errata/errata.md)
    * [3446](Errata/errata.3446.md)
    * [3500](Errata/errata.3500.md)
-

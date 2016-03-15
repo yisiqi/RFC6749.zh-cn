@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cp ./website/SUMMARY.md ./
+gitbook serve

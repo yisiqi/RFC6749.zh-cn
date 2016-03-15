@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cp ./website/SUMMARY.md ./
+gitbook build
+rm ./SUMMARY.md
+
+cp ./ebook/SUMMARY.md ./
+gitbook epub
+gitbook pdf
+rm ./SUMMARY.md
